@@ -1,0 +1,12 @@
+.login_page{
+    width: 300px;
+    margin: auto;
+}
+.data_field{
+    display: flex;
+}
+.input_field{
+    height: 50px;
+    padding-top: 20px;
+    margin-left:20px ;
+}
